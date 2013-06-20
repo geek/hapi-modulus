@@ -11,4 +11,5 @@ Before cloning this repository and deploying to modulus create an account on mod
 1. `npm install -g modulus`
 2. `git clone git://github.com/wpreul/hapi-modulus.git && cd hapi-modulus`
 3. `modulus login`
-4. `modulus deploy`
+4. `modulus project create`
+5. `modulus deploy`
