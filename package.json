@@ -1,0 +1,19 @@
+{
+  "name": "hapi-modulus",
+  "version": "0.0.1",
+  "description": "hapi example app running on modulus.io",
+  "main": "main.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/wpreul/hapi-modulus.git"
+  },
+  "author": "Wyatt Preul",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "dependencies": {
+    "hapi": "1.18.x"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  }
+}
